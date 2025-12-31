@@ -4,9 +4,9 @@
   "private": true,
   "dependencies": {
     "react": "^16.10.2",
-    "react-devtools": "^3.6.3",
+    "react-devtools": "^7.0.1",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
